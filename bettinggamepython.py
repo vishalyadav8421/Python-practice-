@@ -1,4 +1,4 @@
-'''
+''''
 betting game
 balance : 100
 user >> num (0-9)>> 5 
@@ -42,3 +42,4 @@ betting_game()
         
     
     
+
